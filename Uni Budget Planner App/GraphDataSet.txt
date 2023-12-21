@@ -1,0 +1,88 @@
+0, Bus fare, 07/01/2023, 5
+1, Fuel purchase, 15/01/2023, 40
+0, Dentist Appoinment, 21/01/2023, 90
+0, House payment for January, 30/1/2023, 200
+0, Drinks from Starbucks, 2/01/2023, 200
+1, Lunch at a restaurant, 10/01/2023, 25
+2, Groceries from the supermarket, 15/01/2023, 50
+3, Dinner at a fast food restaurant, 20/01/2023, 15
+0, Spa treatment, 10/01/2023, 100
+0, Clothing purchase, 05/01/2023, 100
+1, Grocery shopping, 15/01/2023, 80
+2, Train ticket, 28/02/2023, 20
+1, Prescription medication, 10/02/2023, 50
+1, House payment for February, 28/2/2023, 200
+4, Coffee from a café, 05/02/2023, 5
+5, Snacks from a vending machine, 12/02/2023, 10
+6, Breakfast at a bakery, 25/02/2023, 8
+1, Gym membership, 15/02/2023, 50
+2, Electronics purchase, 28/02/2023, 500
+3, Taxi ride, 10/03/2023, 15
+2, Doctor's consultation fee, 25/03/2023, 80
+2, House payment for March, 30/3/2023, 200
+7, Dinner at a family gathering, 10/03/2023, 30
+8, Lunch at a food court, 18/03/2023, 12
+2, Massage therapy, 20/03/2023, 80
+3, Online shopping, 10/03/2023, 200
+4, Car maintenance, 22/04/2023, 200
+3, Gym membership, 15/04/2023, 120
+3, House payment for April, 30/4/2023, 200
+9, Drinks at a bar, 01/04/2023, 20
+10, Takeout from a Chinese restaurant, 15/04/2023, 18
+11, Lunch at a café, 28/04/2023, 15
+3, Yoga class, 05/04/2023, 30
+4, Furniture purchase, 22/04/2023, 1000
+5, Parking fee, 05/05/2023, 10
+4, House payment for May, 30/5/2023, 200
+12, Dinner at a steakhouse, 05/05/2023, 50
+13, Snacks at a movie theater, 12/05/2023, 10
+14, Groceries from a farmer's market, 20/05/2023, 40
+4, Hair salon visit, 10/05/2023, 60
+5, Bookstore purchase, 05/05/2023, 50
+6, Airline ticket, 18/06/2023, 300
+4, Dental check-up, 20/06/2023, 90
+5, House payment for June, 30/6/2023, 200
+15, Coffee from a specialty coffee shop, 03/06/2023, 7
+16, Breakfast at a diner, 10/06/2023, 12
+17, Lunch at a sushi restaurant, 22/06/2023, 30
+5, Skincare products, 15/06/2023, 40
+6, Shopping mall spree, 18/06/2023, 300
+7, Public transportation pass, 02/07/2023, 60
+6, House payment for July, 30/7/2023, 200
+18, Drinks at a rooftop bar, 04/07/2023, 25
+19, Takeout from a pizza place, 14/07/2023, 20
+20, Dinner at a seafood restaurant, 28/07/2023, 45
+6, Meditation workshop, 20/07/2023, 50
+7, Home appliances purchase, 02/07/2023, 800
+8, Bike repair, 15/08/2023, 30
+7, House payment for August, 30/8/2023, 200
+21, Snacks from a convenience store, 10/08/2023, 8
+22, Brunch at a trendy café, 20/08/2023, 25
+7, Wellness retreat, 25/08/2023, 200
+8, Sports equipment purchase, 15/08/2023, 150
+9, Tolls, 28/09/2023, 5
+5, Yoga class, 05/09/2023, 30
+8, House payment for September, 30/9/2023, 200
+23, Lunch at a food truck, 02/09/2023, 15
+24, Dinner at an Italian restaurant, 12/09/2023, 35
+25, Coffee from a drive-thru, 25/09/2023, 4
+8, Nail salon appointment, 10/09/2023, 35
+9, Cosmetics shopping, 28/09/2023, 50
+10, Ride-sharing service, 10/10/2023, 25
+9, House payment for October, 30/10/2023, 200
+26, Breakfast at a pancake house, 08/10/2023, 10
+27, Lunch at a Mexican restaurant, 18/10/2023, 20
+28, Drinks at a sports bar, 28/10/2023, 30
+9, Fitness equipment purchase, 15/10/2023, 150
+10, Jewelry purchase, 10/10/2023, 200
+11, Metro fare, 22/11/2023, 10
+6, Vitamin supplements, 12/11/2023, 40
+10, House payment for November, 30/11/2023, 200
+29, Takeout from a Thai restaurant, 12/11/2023, 22
+30, Dinner at a fine dining restaurant, 25/11/2023, 100
+11, Hobby supplies purchase, 22/11/2023, 50
+12, Rental car, 05/12/2023, 150
+11, House payment for Disember, 30/12/2023, 200
+12, Health and wellness products, 05/12/2023, 100
+13, Online subscription renewal, 15/12/2023, 10
+14, Gift shopping, 25/12/2023, 200

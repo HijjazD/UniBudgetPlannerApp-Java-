@@ -1,0 +1,7 @@
+0, Student loan disbursement, 15/02/2023, 5000
+1, Scholarship award, 20/06/2023, 1000
+2, Loan principal payment, 12/10/2023, 1000
+3, Additional student loan disbursement, 05/03/2023, 10000
+4, Bursary award, 10/07/2023, 2000
+5, Education grant received, 18/09/2023, 8000
+6, Loan repayment received from part-time job, 22/12/2023, 1500

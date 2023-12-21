@@ -1,0 +1,7 @@
+0, Dentist Appoinment, 21/01/2023, 90
+1, Prescription medication, 10/02/2023, 50
+2, Doctor's consultation fee, 25/03/2023, 80
+3, Gym membership, 15/04/2023, 120
+4, Dental check-up, 20/06/2023, 90
+5, Yoga class, 05/09/2023, 30
+6, Vitamin supplements, 12/11/2023, 40

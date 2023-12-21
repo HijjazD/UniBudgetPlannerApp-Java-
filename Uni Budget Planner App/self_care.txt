@@ -1,0 +1,10 @@
+0, Spa treatment, 10/01/2023, 100
+1, Gym membership, 15/02/2023, 50
+2, Massage therapy, 20/03/2023, 80
+3, Yoga class, 05/04/2023, 30
+4, Hair salon visit, 10/05/2023, 60
+5, Skincare products, 15/06/2023, 40
+6, Meditation workshop, 20/07/2023, 50
+7, Wellness retreat, 25/08/2023, 200
+8, Nail salon appointment, 10/09/2023, 35
+9, Fitness equipment purchase, 15/10/2023, 150

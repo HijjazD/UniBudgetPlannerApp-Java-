@@ -1,0 +1,13 @@
+0, Money from Dad, 12/01/2023, 150
+1, Money from Dad, 25/01/2023, 130
+2, Angpao CNY, 15/02/2023, 200
+3, Money from Mom, 5/03/2023, 120
+4, Weekly Allowance, 12/03/2023, 50
+5, Money from Grandparents, 20/03/2023, 100
+6, Money for Chores, 2/04/2023, 80
+7, Birthday Gift, 18/04/2023, 150
+8, Money from Aunt, 1/05/2023, 75
+9, Monthly Allowance, 10/05/2023, 100
+10, Money from Uncle, 28/05/2023, 90
+11, Holiday Bonus, 15/06/2023, 200
+12, Money for Achievements, 5/07/2023, 50

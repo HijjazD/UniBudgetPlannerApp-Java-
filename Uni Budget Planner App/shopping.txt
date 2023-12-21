@@ -1,0 +1,15 @@
+0, Clothing purchase, 05/01/2023, 100
+1, Grocery shopping, 15/01/2023, 80
+2, Electronics purchase, 28/02/2023, 500
+3, Online shopping, 10/03/2023, 200
+4, Furniture purchase, 22/04/2023, 1000
+5, Bookstore purchase, 05/05/2023, 50
+6, Shopping mall spree, 18/06/2023, 300
+7, Home appliances purchase, 02/07/2023, 800
+8, Sports equipment purchase, 15/08/2023, 150
+9, Cosmetics shopping, 28/09/2023, 50
+10, Jewelry purchase, 10/10/2023, 200
+11, Hobby supplies purchase, 22/11/2023, 50
+12, Health and wellness products, 05/12/2023, 100
+13, Online subscription renewal, 15/12/2023, 10
+14, Gift shopping, 25/12/2023, 200
